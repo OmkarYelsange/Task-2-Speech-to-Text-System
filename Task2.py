@@ -1,3 +1,6 @@
+pip install -r requirements.txt
+python speech_to_text.py
+
 ### Task 2: Speech-to-Text System
 # This script converts an audio file into text using Google Speech Recognition API.
 
